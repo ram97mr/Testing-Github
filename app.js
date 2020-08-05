@@ -1,2 +1,3 @@
 console.log('summa');
-console.log('Sum');
+console.log('Summa');
+console.log('Summa');
